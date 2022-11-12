@@ -10,7 +10,7 @@ public static void main(String[]args)//this is the main function
 {
 	int num;
 	Scanner input =new Scanner(System.in);
-	System.out.print("hey child,kindly enter the number to be tested");
+	System.out.print("hey ,kindly enter the number to be tested");
 	num=input.nextInt();//allows input from the user
 
 	System.out.print("\n");//this is the line break
