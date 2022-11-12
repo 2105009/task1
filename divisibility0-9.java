@@ -4,7 +4,7 @@
 
 package kitolo;//name of our folder
 import java.util.Scanner;//// It is the easiest way to read input in a Java program
-public class numbers$divisible.java {//here is the class name
+public class divisibility0-9 {//here is the class name
 public static void main(String[]args)//this is the main function
 
 {
