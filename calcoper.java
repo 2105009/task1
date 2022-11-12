@@ -1,9 +1,9 @@
-/* whitney khoi
+/* magdalene kitolo
  * this program allows user to enter values and the program checks and does the calculation based on the operation chosen
  * 
 
 */
-package khoi;//folder name
+package kitolo;//folder name
 
 import java.util.Scanner;//the easiest way to read in a java program
 
