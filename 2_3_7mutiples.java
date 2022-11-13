@@ -1,4 +1,5 @@
 /* kitolo magda 
+the program asks the marks of the five units of last semister and computes sum and later gives the average based on the marks entered
 */
 
 package Kitolo;//the source folder
